@@ -61,6 +61,8 @@ public class testCars {
         System.out.println("Util   dis: "+CollectionUtils.disjunction(testers1,testers2));
         System.out.println("Util   sub: "+CollectionUtils.subtract(testers1,testers2));
 
+        12312312
+
 
 
     }
